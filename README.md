@@ -1,5 +1,10 @@
 # README
 # kettykay.github.io-tkabwe.github.io
+
+## Technical Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,git,github)
+  
 # Hi there, I'm Tionge Kabwe 👋!
 
 I'm a Biology and Data Science student at Smith College passionate about using data to solve problems in biology and public health. I enjoy combining statistical analysis, machine learning, and research to answer meaningful scientific questions.
