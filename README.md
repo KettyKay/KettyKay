@@ -84,7 +84,7 @@ This experience strengthened my skills in AI agent development, data analysis, e
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/tionge-kabwe-074119295/
+- LinkedIn: https://www.linkedin.com/in/tionge-kabwe/
 - Portfolio: https://kettykay.github.io/tkabwe.github.io/
 - Email: tkabwe@smith.edu
 
